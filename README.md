@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Mishra</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align="right alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyammishra1718&label=Profile%20views&color=0e75b6&style=flat" alt="satyammishra1718" /> </p>
 
