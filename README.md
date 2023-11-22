@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Advanced ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://satyammishra1718.github.io/My_Portfolio/](https://satyammishra1718.github.io/My_Portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/Satyammishra1718?tab=repositories](https://github.com/Satyammishra1718?tab=repositories)
 
 - 💬 Ask me about **Node.js and React.js**
 
