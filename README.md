@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyammishra1718&label=Profile%20views&color=0e75b6&style=flat" alt="satyammishra1718" /> </p>
 
-- 🌱 I’m currently learning **Advanced ReactJS**
+- 🌱 I’m currently learning **NextJS and React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Satyammishra1718?tab=repositories](https://github.com/Satyammishra1718?tab=repositories)
 
-- 💬 Ask me about **Node.js and React.js**
+- 💬 Ask me about **JS , ReactJS , NextJS , NodeJS and Fundamentals of CS**
 
 - 📫 How to reach me **satyammishra1718@gmail.com**
 
